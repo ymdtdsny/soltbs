@@ -1,11 +1,16 @@
-# Soluciones de libros de textos
+# SOLUCIONES DE EJERCICIOS
 
-Este repositorio contiene soluciones de algunos ejercicios de diversos textos de matemáticas.
+Bienvenido a soltbs. 
+Aquí encontrarás soluciones de ejercicios seleccionados de distintos libros de matemáticas. 
+El objetivo es servir como material de apoyo para todos los estudiantes de matemáticas (incluyéndome).
 
-## Libros disponibles
+## Livros disponíveis
 
-- Garcia & Lequain — Elementos de Álgebra
+Actualmente se incluyen soluciones de ejercicios de los siguientes textos:
 
-## Aviso
+- Elementos de Álgebra — García & Lequain.
 
-Estas soluciones pueden contener errores.
+## Warning
+
+Aunque se ha procurado revisar cada solución, es posible que algunas contengan errores, omisiones o enfoques mejorables. 
+Si encuentras algún problema o tienes una sugerencia para mejorar una solución, tu colaboración será bienvenida.
